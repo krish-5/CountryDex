@@ -1,6 +1,6 @@
 # Country Dex - Explore Countries of the Earth 🌍
 
-Welcome to the Country Dex web app project! This application allows you to explore information about all countries on Earth, providing a rich and interactive experience. Whether you're looking for general country information, detailed statistics, or just want to admire the flags of different nations, Country Dex has got you covered. Try now: [click here](https://alkaison.github.io/Country-Dex)
+Welcome to the Country Dex web app project! This application allows you to explore information about all countries on Earth, providing a rich and interactive experience. Whether you're looking for general country information, detailed statistics, or just want to admire the flags of different nations, Country Dex has got you covered.
 
 [![Country Dex Screenshot](https://i.postimg.cc/MHDk8sNB/CD-1.png)](https://alkaison.github.io/Country-Dex)
 
