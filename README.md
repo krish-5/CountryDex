@@ -1,19 +1,8 @@
 # Country Dex - Explore Countries of the Earth 🌍
 
-Welcome to the Country Dex web app project! This application allows you to explore information about all countries on Earth, providing a rich and interactive experience. Whether you're looking for general country information, detailed statistics, or just want to admire the flags of different nations, Country Dex has got you covered. Try now: [click here](https://alkaison.github.io/Country-Dex)
+Welcome to the Country Dex web app project! This application allows you to explore information about all countries on Earth, providing a rich and interactive experience. Whether you're looking for general country information, detailed statistics, or just want to admire the flags of different nations, Country Dex has got you covered. 
 
-[![Country Dex Screenshot](https://i.postimg.cc/MHDk8sNB/CD-1.png)](https://alkaison.github.io/Country-Dex)
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Theme Toggle](#theme-toggle)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -37,15 +26,6 @@ Welcome to the Country Dex web app project! This application allows you to explo
 - Customize your browsing experience by toggling between dark and light themes.
 - Your preference is stored in local storage for a seamless experience on your next visit.
 
-## Technologies/Library Used
-- React.js
-- Vanilla CSS
-- React Icons
-- React Router DOM
-- React Loader Spinner
-- GH-Pages
-- Animate on Scroll
-- [REST Countries API (v3.1)](https://restcountries.com/)
 
 ## Getting Started
 To get started with the Country Dex project on your local machine, follow these steps:
@@ -72,29 +52,5 @@ To get started with the Country Dex project on your local machine, follow these 
 
 5. Open your web browser and access the app at `http://localhost:3000/Country-Dex`.
 
-## Usage
-- Visit the home page to see a list of all countries along with their flags and basic information.
-- Use the search input field to find a specific country by name.
-- Filter countries by region using the region filter dropdown.
-- Click on a country card to view more detailed information on a separate page.
-- On the detailed country page, click on bordering countries names to explore more.
-
-## Theme Toggle
-- Toggle between dark and light themes using the theme switcher located in the header.
-- Your theme preference will be saved in local storage for your next visit.
-
-## Screenshots
-
-### Home Page
-![Dark Theme](https://i.postimg.cc/MHDk8sNB/CD-1.png)
-
-### Country Details
-![Detailed Country View](https://i.postimg.cc/kG9rzr19/CD-2.png)
-
-## Contributing
-Contributions to this project are welcome! Feel free to open issues or submit pull requests to improve the application.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 Thank you for exploring the world with us! 🌎🌏🌍
